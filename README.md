@@ -3,7 +3,7 @@
 Este projeto é um portfólio pessoal desenvolvido como avaliação da disciplina de Linguagem de Marcação e Formatação. O objetivo foi criar uma página web responsiva utilizando HTML5, CSS3 e o framework Bootstrap 5.
 
 ## 🔗 Link do Site Publicado
-[Clique aqui para acessar o Portfólio Online](COLE_O_LINK_DO_PASSO_3_AQUI)
+[Clique aqui para acessar o Portfólio Online](https://ck-24681.github.io/meu-portfolio/)
 
 ## 👨‍💻 Aluno
 **Nome:** Charles Kauã Santana Barbosa
@@ -24,4 +24,5 @@ O site apresenta minha trajetória acadêmica dupla (Matemática e Tecnologia), 
 * Cards informativos sobre áreas de estudo.
 
 * Formulário de contato visual.
+
 
