@@ -8,7 +8,7 @@ Este projeto é um portfólio pessoal desenvolvido como avaliação da disciplin
 ## 👨‍💻 Aluno
 **Nome:** Charles Kauã Santana Barbosa
 **Curso:** Análise e Desenvolvimento de Sistemas / Licenciatura em Matemática
-**Instituição:** Faculdade Imaculada Conceição do Recife (FICR)
+**Instituição:** Faculdade Imaculada Conceição do Recife (FICR) / Universidade Federal de Pernambuco (UFPE)
 
 ## 🛠️ Tecnologias Utilizadas
 * HTML5 Semântico
@@ -20,4 +20,5 @@ O site apresenta minha trajetória acadêmica dupla (Matemática e Tecnologia), 
 * Barra de navegação responsiva.
 * Seção Hero com apresentação pessoal.
 * Cards informativos sobre áreas de estudo.
+
 * Formulário de contato visual.
