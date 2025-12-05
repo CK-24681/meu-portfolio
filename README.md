@@ -21,8 +21,9 @@ Este projeto é um portfólio pessoal desenvolvido como avaliação da disciplin
 O site apresenta minha trajetória acadêmica dupla (Matemática e Tecnologia), destacando:
 * Barra de navegação responsiva.
 * Seção Hero com apresentação pessoal.
-* Cards informativos sobre áreas de estudo.
+* Cards informativos sobre projetos.
 
 * Formulário de contato visual.
+
 
 
